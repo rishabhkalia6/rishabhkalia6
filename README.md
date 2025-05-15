@@ -3,8 +3,8 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Click on the blue sentences to view projects!</b>
-- <b>Pokémon server – (C, Sockets, Linux)</b>
-  - [Pokemon server using C](https://github.com/rishabhkalia6/Pokemon_server/tree/main)
+- <b>Pokémon server – (C, Sockets, Linux)</b><br/>
+  - <a href="https://github.com/rishabhkalia6/Pokemon_server/tree/main" target="_blank">Pokemon server using C</a>
 - <b>Custom Memory Allocator in C – (C, Systems programming)</b>
   - [custom memory management system in C ](https://github.com/rishabhkalia6/Custom_memory_allocator)
 - <b>Multithreaded Data Pipeline with Synchronization – (C, POSIX Threads)</b>
