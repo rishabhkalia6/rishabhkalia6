@@ -4,16 +4,13 @@
 
 - <b>Click on the blue sentences to view projects!</b>
 - <b>Pokémon server – (C, Sockets, Linux)</b>
-  - [Pokemon server using C](https://github.com/rishabhkalia6/Pokemon_server/blob/main/README.md)
+  - [Pokemon server using C](https://github.com/rishabhkalia6/Pokemon_server/tree/main)
 - <b>Custom Memory Allocator in C – (C, Systems programming)</b>
-  - [custom memory management system in C ](https://github.com/rishabhkalia6/Custom_memory_allocator/blob/main/README.md)
+  - [custom memory management system in C ](https://github.com/rishabhkalia6/Custom_memory_allocator)
 - <b>Multithreaded Data Pipeline with Synchronization – (C, POSIX Threads)</b>
-  - [Designed a multi-threaded program in C that simulates a producer-consumer model using semaphores.](https://github.com/rishabhkalia6/Multithreaded-Data-Pipeline-with-Synchronization-C-POSIX-Threads-/blob/main/README.md)
+  - [Designed a multi-threaded program in C that simulates a producer-consumer model using semaphores.](https://github.com/rishabhkalia6/Multithreaded-Data-Pipeline-with-Synchronization-C-POSIX-Threads-)
 - <b>UDP Prime Checker – (C, UDP Sockets, Linux Networking)</b>
-  - [Built a UDP-based client-server app where the client sends integers, and the server responds with primality status.](https://github.com/rishabhkalia6/UDP-Prime-Checker-C-UDP-Sockets-Linux-Networking-/blob/main/README.md)
-- <b>File Integrity Checker (FIC)</b>
-  - [A Python tool that detects file tampering by comparing SHA-256 hashes for integrity verification.](https://github.com/rishabhkalia6/File_integrity_Checker)
-
+  - [Built a UDP-based client-server app where the client sends integers, and the server responds with primality status.](https://github.com/rishabhkalia6/UDP-Prime-Checker-C-UDP-Sockets-Linux-Networking-/tree/main)
 
 <h2> 🤳 Connect with me:</h2>
 
